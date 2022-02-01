@@ -34,6 +34,6 @@ git commit -am "this is a commit message"
 - [ ] This is a to-do list this isn't complete.
 - [ ] This is another to-do list that isn't complete.
 
-# This is the Black Cat section
+# This is our Black Cat section
 
 !["black cat"](https://upload.wikimedia.org/wikipedia/commons/4/4c/Blackcat-Lilith.jpg)
